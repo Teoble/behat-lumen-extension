@@ -1,7 +1,7 @@
 ##This project is a update of arisro/behat-lumen-extension to work in Lumen v5.2 or higher
 
-The purpose of the project is to make available the [behat-lumen-extension](behat-lumen-extension
-) for Lumen v5.2, since that in the original project it works on in v5.2.
+The purpose of the project is to make available the [behat-lumen-extension](https://github.com/arisro/behat-lumen-extension
+) for Lumen higher versions than v5.1, since that in the original project it works on in v5.2.
 
 Thanks for [Aris Buzachis](https://github.com/arisro) for developing suching an helping tool as behat-lumen-extension 
 
