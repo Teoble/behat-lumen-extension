@@ -8,6 +8,10 @@
         {
             "name": "Aris Buzachis",
             "email": "buzachis.aris@gmail.com"
+        },
+        {
+            "name": "Rafael Pereira",
+            "email": "rafael.pereira.sjbv@gmail.com"
         }
     ],
     "autoload": {
